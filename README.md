@@ -53,9 +53,9 @@ Regional/state sales mapping
 
 ### Overall Sales Performance
 
-Total Transactions: 34,866
+Total Transactions: ₦34,866
 
-Total Quantity Sold: 69,820
+Total Quantity Sold: ₦69,820
 
 Total Revenue: ₦22.34M
 
