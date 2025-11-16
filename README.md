@@ -128,7 +128,7 @@ Salesperson performance variations suggest the need for targeted upskilling.
 ---
 
 ## Recommendations
-A. Product & Pricing Strategy <b>
+A. Product & Pricing Strategy
 
 Prioritize marketing and inventory for Accessories (highest margin).
 
