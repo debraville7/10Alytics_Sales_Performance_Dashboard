@@ -63,9 +63,9 @@ Total Cost: ₦20.08M
 
 Total Profit: ₦2.26M
 
-Trend of Profit by Year
+### Trend of Profit by Year
 
-### Early 2015 shows negative or near-zero profit.
+Early 2015 shows negative or near-zero profit.
 
 Profit rises steadily into 2016, peaking around Q2.
 
