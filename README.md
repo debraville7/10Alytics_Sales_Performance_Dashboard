@@ -75,5 +75,6 @@ A sharp decline in July suggests a seasonal dip or operational disruption.
 
 Male: 52% of profit
 
-Female: 48% <b>
+Female: 48%
+
 → Balanced performance, indicating no gender-driven sales gap.
