@@ -128,7 +128,7 @@ Salesperson performance variations suggest the need for targeted upskilling.
 ---
 
 ## Recommendations
-A. Product & Pricing Strategy
+### A. Product & Pricing Strategy
 
 Prioritize marketing and inventory for Accessories (highest margin).
 
@@ -136,31 +136,31 @@ Reassess Phones cost structure — negotiate suppliers, refine pricing, or redes
 
 Improve Clothing margins through cost control and promotional alignment.
 
-B. Regional Growth Strategy
+### B. Regional Growth Strategy
 
 Deploy micro-campaigns in low-performing states (Adamawa, Edo, Benue).
 
 Reassign high-performing sales reps to support weaker regions.
 
-C. Customer Segment Strategy
+### C. Customer Segment Strategy
 
 Launch targeted campaigns for Adults and Youth, the highest-value segments.
 
 Create tiered loyalty programs to encourage repeat purchases.
 
-D. Operational Performance
+### D. Operational Performance
 
 Build incentive structures tied to profit contribution, not just volume.
 
 Use dashboards to monitor salesperson productivity in real time.
 
-E. Seasonal Planning
+### E. Seasonal Planning
 
 Introduce Q1 promotional offers to offset early-year dips.
 
 Align inventory management with seasonal demand trends.
 
-F. Payment Optimization
+### F. Payment Optimization
 
 Promote online payments using small discounts or faster processing benefits.
 
