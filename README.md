@@ -78,3 +78,31 @@ Male: 52% of profit
 Female: 48%
 
 → Balanced performance, indicating no gender-driven sales gap.
+
+### Profit by Customer Age Group
+
+Adults are the dominant profit contributors.
+
+Youth follow with moderate impact.
+
+Older groups (Elder & Aged) show minimal contribution and represent a smaller commercial opportunity.
+
+### Profit by Product Category
+
+Accessories deliver the highest profit, with revenue significantly above cost and the strongest margin among all categories.
+
+Clothing produces a moderate profit margin, with revenue safely above cost but not as strong as Accessories.
+
+Phones, though generating the highest revenue, also incur very high costs, resulting in the lowest profit margin across all categories.
+
+### Profit by Top 10 States
+
+Strongest regions:
+
+Lagos, Abuja, Akwa Ibom, Anambra
+
+Lowest-performing:
+
+Adamawa, Edo, Benue
+
+→ Clear regional disparities and untapped market potential.
